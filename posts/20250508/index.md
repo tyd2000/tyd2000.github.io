@@ -1,4 +1,4 @@
-# 
+# 《新闻联播》20250508
 
 # 《新闻联播》20250508
 
@@ -242,5 +242,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: http://localhost:1313/posts/20250508/  
+> URL: https://tyd2000.github.io/posts/20250508/  
 

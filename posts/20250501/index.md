@@ -1,4 +1,5 @@
-# 
+# 《新闻联播》20250501
+
 
 # 《新闻联播》20250501
 
@@ -31,6 +32,7 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16063484991342266558&track_id=2FFF5445-8E22-4F21-B155-5C3CFEDF0669_768870947655"
 </iframe>
+
 
 ### 用创造拥抱新时代 以奋斗铸就新辉煌——习近平总书记在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会发表的重要讲话引发热烈反响
 
@@ -288,5 +290,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: http://localhost:1313/posts/20250501/  
+> URL: https://tyd2000.github.io/posts/20250501/  
 
