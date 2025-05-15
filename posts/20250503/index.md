@@ -1,6 +1,5 @@
 # 《新闻联播》20250503
 
-# 《新闻联播》20250503
 
 男主持人（**刚强**）：“各位观众晚上好。”
 
@@ -22,7 +21,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2203481115368749489&track_id=E22E80F1-9CC8-48F4-B592-F2E10EEEAD02_768882942022"
-</iframe>
+></iframe>
 
 ### 【新思想引领新征程】在中国式现代化建设中挺膺担当
 
@@ -46,7 +45,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14307941417428514815&track_id=FD5AF1EC-961E-455D-AD53-A7F0BF4D9EB5_768882951828"
-</iframe>
+></iframe>
 
 ### 央视快评：为中国式现代化建设贡献青春力量——庆祝五四青年节
 
@@ -56,7 +55,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4296470041826570792&track_id=9456B5ED-E825-472F-A1A2-7600E5324933_768882961441"
-</iframe>
+></iframe>
 
 ### 中国共青团团内统计主要数据发布：全国共有共青团员7531.8万名
 
@@ -66,7 +65,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=278638999106090428&track_id=7C8A2454-B02C-4363-92A5-5FDEA78445BF_768882969687"
-</iframe>
+></iframe>
 
 ### 城市乡村特色游 拉动假日消费热
 
@@ -84,7 +83,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3280177720696607469&track_id=1EA26758-9840-498A-98F8-7EC34B78DD49_768882975874"
-</iframe>
+></iframe>
 
 ### 我国文旅产业一季度高位开局 持续火热
 
@@ -100,7 +99,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3656742251639225118&track_id=4061B09E-7E58-47ED-90DC-61FA6FC8704C_768882982586"
-</iframe>
+></iframe>
 
 ### 退税便利化激活入境消费新引擎
 
@@ -118,7 +117,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12177462076553054455&track_id=D829836F-5DA3-4B6E-B61B-002602DA95CB_768882989824"
-</iframe>
+></iframe>
 
 ### 交通部门细化服务 提升假期出行质量
 
@@ -134,7 +133,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3604205174404679689&track_id=9BA12939-9BDD-4AE2-B548-35954ECC1585_768882996010"
-</iframe>
+></iframe>
 
 ### “五一”坚守岗位 重大工程建设加速推进
 
@@ -154,7 +153,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=6940711992776778991&track_id=F76793D3-371C-434C-866D-D9B0479FCF43_768883001888"
-</iframe>
+></iframe>
 
 ### 【大国工匠】张洪宾：百炼精车 千钧瞬止
 
@@ -174,7 +173,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13109894090838571084&track_id=6BF86979-9960-477C-9E4C-7C254EB8DE3A_768883008834"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -198,7 +197,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1252401181636785373&track_id=9CDAE833-FEC6-4FB1-8198-6DF7937AAC28_768883016923"
-</iframe>
+></iframe>
 
 ### 美国鞋业协会致信美政府 要求对鞋类给予关税豁免
 
@@ -216,7 +215,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12074047296719628942&track_id=DB1771B8-27D9-466A-8714-75255F960619_768883025136"
-</iframe>
+></iframe>
 
 ### 叙利亚大马士革附近等多地遭以色列空袭
 
@@ -228,7 +227,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=588304715272042264&track_id=110528E4-BE14-4A0F-89EB-9518656A9BE8_768883031314"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -254,7 +253,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=6930769604680600648&track_id=00870CF3-6B39-45EF-BF91-3BF0CF19CCD7_768883040027"
-</iframe>
+></iframe>
 
 ### 流动的中国
 
@@ -266,7 +265,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12885037032035511721&track_id=A2C4871F-0F71-4F85-A10A-E35A0FB2E792_768883047156"
-</iframe>
+></iframe>
 
 
 ---

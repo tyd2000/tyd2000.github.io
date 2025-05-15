@@ -1,6 +1,5 @@
 # 《新闻联播》20250504
 
-# 《新闻联播》20250504
 
 男主持人（**康辉**）：“各位观众晚上好。”
 
@@ -16,7 +15,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15639323212248640079&track_id=232FCA9C-E935-43A0-A8C4-472E5C18D15E_768885100103"
-</iframe>
+></iframe>
 
 ### 到祖国和人民最需要的地方发光发热——习近平总书记给谢依特小学戍边支教西部计划志愿者服务队队员的回信在全国广大青年中引发热烈反响
 
@@ -36,7 +35,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4397829411021196196&track_id=FC0B0762-E526-4C6D-9ECE-1A95D39C54AF_768885120422"
-</iframe>
+></iframe>
 
 ### 各地开展“青春为中国式现代化挺膺担当”五四主题团日活动
 
@@ -50,7 +49,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4432375319557844101&track_id=B7D0153A-12E4-4F2C-94E3-E24E52E5D1B9_768885128452"
-</iframe>
+></iframe>
 
 ### 【新时代的青春之歌】在隧道中掘进的“追光者”
 
@@ -68,7 +67,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17056686651193377234&track_id=257C8DB5-9D94-4BAE-8DE6-7E533560EE33_768885135055"
-</iframe>
+></iframe>
 
 ### 假日坚守岗位 全力保障群众便捷出行
 
@@ -86,7 +85,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4489443800783349836&track_id=4ED52271-AFC7-44B3-A8B4-C39B8D4A6147_768885145286"
-</iframe>
+></iframe>
 
 ### 看美景 品美食 尽享假日美好时光
 
@@ -104,7 +103,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17153852191574792082&track_id=CD91F38F-45EE-47B2-8DC7-C10668A8757A_768885152216"
-</iframe>
+></iframe>
 
 ### 交通部门多举措应对返程客流
 
@@ -120,7 +119,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=312460241459475916&track_id=48559505-4117-4EF7-8474-ED459E2686B1_768885158369"
-</iframe>
+></iframe>
 
 ### 【文化中国行】“五一”假期文艺演出市场热度攀升
 
@@ -138,7 +137,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12438606088839507756&track_id=07E2D5D4-E8F3-4EFD-8C28-8C96B3B0089F_768885165356"
-</iframe>
+></iframe>
 
 ### 我国智能机器人场景落地创新加速
 
@@ -156,7 +155,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7243841627040205319&track_id=451E0F26-4E8F-4949-8AF5-655EAC540AB1_768885172718"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -188,7 +187,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=6926408498968152599&track_id=F473AEAD-32FF-4A3E-BC16-DAD598F6B242_768885180239"
-</iframe>
+></iframe>
 
 ### 美对进口汽车零部件征收25%关税措施生效 美媒称美车企及消费者利益将受损
 
@@ -204,7 +203,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7749993121136104542&track_id=2822EF33-F5D1-4403-8F66-3376403BAF86_768885186535"
-</iframe>
+></iframe>
 
 ### 也门媒体称也门多地遭美军袭击 胡塞武装称或打击所有运输美原油船只
 
@@ -220,7 +219,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8111642641829418024&track_id=8C0A9FCA-2216-4125-8BF8-A0D9AE391F46_768885193355"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -242,7 +241,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10936996519296274586&track_id=50CF95BD-1762-45E7-8BB8-FE0455FE0D06_768885201994"
-</iframe>
+></iframe>
 
 ### 流动的中国
 
@@ -254,7 +253,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15623483718552997507&track_id=ECE8467C-4AEC-4F7F-A875-EB51312FB860_768885208547"
-</iframe>
+></iframe>
 
 
 ---

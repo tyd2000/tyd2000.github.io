@@ -1,6 +1,5 @@
 # 《新闻联播》20250508
 
-# 《新闻联播》20250508
 
 男主持人（**严於信**）：“各位观众晚上好。”
 
@@ -32,7 +31,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17139309286279615779&track_id=D68ED2DB-05C2-4ABD-9F12-2988FBF8950C_768743829745"
-</iframe>
+></iframe>
 
 ### 习近平出席俄罗斯总统举行的欢迎仪式
 
@@ -50,7 +49,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9680697634408995090&track_id=C032F5CC-9BE6-4A14-8C70-B2F85B840981_768743854442"
-</iframe>
+></iframe>
 
 ### 习近平同俄罗斯总统会谈
 
@@ -94,7 +93,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16767140856552176225&track_id=6A9E0C51-3A25-4E4D-AA47-78A4385391E3_768743978111"
-</iframe>
+></iframe>
 
 ### 习近平向“和平薪火 时代新章——纪念中国人民抗日战争和苏联伟大卫国战争胜利80周年中俄人文交流活动”致贺信
 
@@ -110,7 +109,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17557039890165764663&track_id=D81ADA9B-5E6E-4E1F-A5E2-2262C3463D2C_768743997464"
-</iframe>
+></iframe>
 
 ### 《平“语”近人——习近平喜欢的典故》（国际版）在俄罗斯主流媒体播出
 
@@ -126,7 +125,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14973902594913395507&track_id=A7DB6727-0CB7-4796-A65E-5E07EDF9F912_768744100004"
-</iframe>
+></iframe>
 
 ### 丁薛祥会见沙特阿美董事长
 
@@ -140,7 +139,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5076031185190882931&track_id=42138E20-298B-44D1-8C45-5DE48B1999D1_768744164049"
-</iframe>
+></iframe>
 
 ### 多举措推动民营经济促进法有效实施
 
@@ -160,7 +159,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4707366450082689580&track_id=5B891D46-4CEF-48F1-AD28-974CF13450FB_768744231687"
-</iframe>
+></iframe>
 
 ### 一季度我国软件业务收入同比增长10.6%
 
@@ -170,7 +169,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10886217368657967544&track_id=E6FB38C0-EC16-4AD9-AD59-FA651AD7FDA8_768744250914"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -194,7 +193,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=6954156425875242173&track_id=AD35AE4C-1C41-4744-BBAC-B1174CD9F33B_768744269158"
-</iframe>
+></iframe>
 
 ### 习近平主席署名文章引发俄罗斯各界热烈反响
 
@@ -206,7 +205,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11153596320953324343&track_id=B7648FD8-FEC8-482B-A712-AEAD899611CC_768744380912"
-</iframe>
+></iframe>
 
 ### 美联储连续第三次维持利率不变 警告关税影响
 
@@ -218,7 +217,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14971899854244493159&track_id=0945A01A-5A34-486B-AC17-6CA5A7C6DA56_768744450693"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -236,7 +235,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12815894154341251229&track_id=5881141A-E1A0-45BA-BE2E-06C531D57C68_768744509267"
-</iframe>
+></iframe>
 
 
 ---

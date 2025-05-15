@@ -1,6 +1,5 @@
 # 《新闻联播》20250512
 
-# 《新闻联播》20250512
 
 男主持人（**刚强**）：“各位观众晚上好。”
 
@@ -50,7 +49,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5533374629905558030&track_id=18B4D704-3579-4F82-9933-DB3154C45C96_768745764839"
-</iframe>
+></iframe>
 
 ### 中共中央 国务院印发《生态环境保护督察工作条例》
 
@@ -64,7 +63,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=52786787826478184&track_id=3E71B1B7-3A56-4BB6-94C7-1940CD2CC459_768745852010"
-</iframe>
+></iframe>
 
 ### 李希会见古巴外长
 
@@ -77,8 +76,8 @@
 <iframe  
     width="100%"  
     height="450"  
-    src=" https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11260384538418974821&track_id=0BA72536-9919-4C26-8D32-3DE10A128E1E_768745891690"
-</iframe>
+    src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11260384538418974821&track_id=0BA72536-9919-4C26-8D32-3DE10A128E1E_768745891690"
+></iframe>
 
 ### 《新时代的中国国家安全》白皮书发布
 
@@ -96,7 +95,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10831376153868718880&track_id=4B16E79F-87D5-484D-A2C1-A3ED8F7498B6_768745927193"
-</iframe>
+></iframe>
 
 ### 中美在经贸领域达成重要共识
 
@@ -110,7 +109,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8100143942299709129&track_id=D3EC34EE-AD54-4852-8241-5C133F95CBDE_768745971202"
-</iframe>
+></iframe>
 ### 全国秋粮旺季收购完成 累计收购秋粮3.45亿吨
 
 国家粮食和物资储备局最新发布，目前，2024年度秋粮旺季收购完成，累计收购秋粮3.45亿吨，为近年来较高水平。
@@ -123,7 +122,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14839752513196554420&track_id=4F713500-D6E2-4F0A-853D-17F0D5C5A4D1_768746010998"
-</iframe>
+></iframe>
+
 ### 今年前四月汽车产销量首次双超千万辆
 
 中国汽车工业协会今天（5月12日）公布的数据显示，今年前4个月，我国汽车产销量历史上首次双双突破1000万辆，同比增长均超过10%。其中，新能源汽车产销量分别完成442.9万辆和430万辆，同比分别增长48.3%和46.2%，新能源汽车新车销量达到汽车新车总销量的42.7%。在出口方面，今年1至4月份，汽车出口193.7万辆，同比增长6%。其中，新能源汽车出口64.2万辆，同比增长52.6%。
@@ -134,7 +134,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10296665201044132295&track_id=D7BE6796-2E8F-4D22-AA0B-79078901CC00_768746059776"
-</iframe>
+></iframe>
+
 ### 汽车以旧换新补贴申请突破1000万份
 
 记者今天（5月12日）从商务部了解到，截至目前，2025年汽车以旧换新补贴申请量达322.5万份。自2024年汽车以旧换新政策实施以来，累计补贴申请量已突破1000万份。
@@ -147,7 +148,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13265598856223747884&track_id=E73B5AEC-7229-4732-8497-020058251479_768746093537"
-</iframe>
+></iframe>
+
 ### 一批“十四五”重点铁路建设项目加快推进
 
 记者从国铁集团获悉，今年1—4月，全国铁路完成固定资产投资1947亿元，同比增长5.3%。一批“十四五”规划重点铁路建设项目加快推进，雄安至商丘高铁枣清特大桥完成箱梁架设，宜昌至兴山高铁高岚河特大桥顺利合龙。
@@ -158,7 +160,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14146836505463772810&track_id=32E38C58-425A-449E-AB31-DF421059AFF5_768746127907"
-</iframe>
+></iframe>
 
 ### 各地各部门开展防灾减灾宣教活动 排查群众身边隐患
 
@@ -172,7 +174,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15909616144836542756&track_id=54777E09-3E51-4E0E-89CF-B5CC9CAAE531_768746160291"
-</iframe>
+></iframe>
 
 ### 打造高质量户外运动目的地 户外产业蓬勃发展
 
@@ -188,7 +190,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12094237172337275548&track_id=EC2DBBDE-6EA9-4398-8C38-D1AD1967CC2E_768746177551"
-</iframe>
+></iframe>
+
 ### 【文化中国行】中国毛笔：挥毫间晕染华夏文明
 
 毛笔作为中国传统的书写和绘画工具，居“笔墨纸砚”文房四宝之首。它不仅是一种实用工具，也是中华文化的象征与载体，蕴含着丰富的文化内涵。今天（5月12日）的《文化中国行》，我们一起了解传承数千年的中国毛笔。
@@ -207,7 +210,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4389293601520869158&track_id=85DAAB1E-C7EE-4C5C-9543-BC011DC59B24_768746197412"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -243,7 +246,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9180512250038935283&track_id=5F750D20-46D7-4FF6-8C35-6F8D370DFCDF_768746290231"
-</iframe>
+></iframe>
 
 ### 以军称袭击加沙地带50多个目标 哈马斯称将释放一名美以双重国籍人员
 
@@ -259,7 +262,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13349560675209883956&track_id=B9AE5586-F29C-4D0E-8D93-476FD76787B7_768746356693"
-</iframe>
+></iframe>
 
 ### 俄称以严肃谈判实现持久和平 乌称准备好接受任何形式谈判
 
@@ -271,7 +274,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11679085072757744252&track_id=36F403BA-BE33-4BC4-91C5-00F331B7754D_768746422006"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -293,7 +296,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3366570408140599247&track_id=7B5A3659-A9B1-4BCD-B43B-6BEE0A814F56_768746466013"
-</iframe>
+></iframe>
 
 ---
 

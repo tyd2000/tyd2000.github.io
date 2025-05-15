@@ -1,6 +1,5 @@
 # 《新闻联播》20250507
 
-# 《新闻联播》20250507
 
 男主持人（**严於信**）：“各位观众晚上好。”
 
@@ -18,7 +17,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13449381328699787883&track_id=8402A0FB-CB65-47E9-9BA8-D42505AB80D0_768744762269"
-</iframe>
+></iframe>
 
 ### 习近平在俄罗斯媒体发表署名文章
 
@@ -58,7 +57,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1459570038344847004&track_id=6297196E-2DE4-4B8F-A891-DADC4F80A6A2_768744812730"
-</iframe>
+></iframe>
 
 ### 习近平致电祝贺默茨当选德国联邦总理 李强向默茨致贺电
 
@@ -72,7 +71,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=18312263342165346092&track_id=10C0C693-8C65-4B3A-9713-FD0D4B7F33DF_768744882627"
-</iframe>
+></iframe>
 
 ### 韩正出席庆祝中国欧盟建交50周年招待会并致辞
 
@@ -88,7 +87,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9085575950375459852&track_id=5D5DC6C7-C088-49BE-A371-467BF8AB61B0_768744949514"
-</iframe>
+></iframe>
 
 ### 三部门发布一揽子金融政策稳市场稳预期
 
@@ -104,7 +103,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16149207747759300795&track_id=ADDA3006-9757-4283-A2EC-ACD5FC57A995_768744968292"
-</iframe>
+></iframe>
 
 ### “五一”假期超14亿人次出行 “流动的中国”充满活力
 
@@ -128,7 +127,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14115616487044166505&track_id=3BB3EA77-8BE4-411D-8925-F072815457EF_768745044609"
-</iframe>
+></iframe>
 
 ### “五一”假期全国文博场馆观众创新高
 
@@ -138,7 +137,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11027945205656751033&track_id=26FE52E2-CA2D-49EC-82DC-7FAD933AF188_768745126981"
-</iframe>
+></iframe>
 
 ### 一季度规上轻工企业实现营收5.4万亿元
 
@@ -152,7 +151,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9861343403661508710&track_id=471D4820-3D00-42D5-B4A6-B75443B0A7E4_768745181294"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -192,7 +191,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9285580985002162907&track_id=BE9627DA-69F7-40BF-A248-49ACFBE22565_768745233740"
-</iframe>
+></iframe>
 
 ### 深化双边战略协作 引领全球治理正确方向——俄罗斯各界热烈欢迎习近平主席到访
 
@@ -206,7 +205,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14721618633202187365&track_id=3F30C59D-99F8-43EA-8310-147D4A082471_768745296409"
-</iframe>
+></iframe>
 
 ### 美国3月贸易逆差创新高 当前进口已现大幅下滑 美媒称美关税政策将冲击多领域
 
@@ -222,7 +221,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13370775905130837924&track_id=9E424670-8FAF-42D7-8AD0-36863521FE8B_768745318838"
-</iframe>
+></iframe>
 
 ### 巴基斯坦称遭印度空袭 反击击落印军战机
 
@@ -236,7 +235,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17817627490633739117&track_id=F4292817-058F-4973-AB16-5CBABE2FD659_768745394372"
-</iframe>
+></iframe>
 
 ### 以军称空袭也门萨那国际机场等目标
 
@@ -250,7 +249,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14253487772311335560&track_id=D88460AF-7CA4-4F43-979D-2932815A4602_768745440306"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -270,7 +269,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12818122275139854681&track_id=EFA49853-724A-465B-9111-2CC5233BF987_768745485981"
-</iframe>
+></iframe>
 
 
 ---

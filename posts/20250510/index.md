@@ -1,6 +1,5 @@
 # 《新闻联播》20250510
 
-# 《新闻联播》20250510
 
 男主持人（**潘涛**）：“各位观众晚上好。”
 
@@ -24,7 +23,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3966719584085372917&track_id=64776FE2-32E2-416E-BFD1-302DBC99BF13_768740647155"
-</iframe>
+></iframe>
 
 ### 习近平会见缅甸领导人
 
@@ -40,7 +39,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2878290409515568274&track_id=6E117805-388F-4BFF-85A3-FC69F0B362D5_768740875707"
-</iframe>
+></iframe>
 
 ### 习近平会见古巴国家主席
 
@@ -56,7 +55,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15246580107158700310&track_id=7E6F74FB-47AE-4BF6-8B2D-6B3001C4EE72_768740969727"
-</iframe>
+></iframe>
 
 ### 习近平会见委内瑞拉总统
 
@@ -72,7 +71,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14310042877021858363&track_id=710F6085-1B7C-4BDF-A2AC-6BAC328203C6_768741056000"
-</iframe>
+></iframe>
 
 ### 习近平会见斯洛伐克总理
 
@@ -88,7 +87,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10672982475415030944&track_id=B3E7B071-A2B8-43CC-B867-CA5575769AA8_768741135528"
-</iframe>
+></iframe>
 
 ### 习近平圆满结束对俄罗斯国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典
 
@@ -106,7 +105,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=18397166307334651354&track_id=A1C53657-8616-4A4C-AD1B-4CB44D3AD4CD_768741209053"
-</iframe>
+></iframe>
 
 ### 应习近平邀请 巴西总统将访华
 
@@ -116,7 +115,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11034778542961657406&track_id=90BB29B4-7EB8-46A9-829F-EBC20D6EEF25_768741304122"
-</iframe>
+></iframe>
 
 ### “两新”政策持续支持各地促消费稳增长
 
@@ -132,7 +131,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5115983200602381211&track_id=DE14ECB4-21EB-4B1D-8EA7-69D235B5BF94_768741388737"
-</iframe>
+></iframe>
 
 ### 【在希望的田野上】春播迎高峰 各地全力保夏粮丰收
 
@@ -148,7 +147,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4650480209528775488&track_id=0C4B15E5-9659-4CFC-999F-6EEC2F51FBF9_768741466955"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -188,7 +187,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8447330118829233919&track_id=D7053819-577A-46A0-80AC-481F783011BF_768741685595"
-</iframe>
+></iframe>
 
 ### 俄罗斯各界高度评价习近平主席对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典
 
@@ -200,7 +199,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9272586403324125941&track_id=20A16268-302D-4329-8577-B26E8346A38E_768741802160"
-</iframe>
+></iframe>
 
 ### 巴称对印发起军事行动 印称打击巴军事基地
 
@@ -212,7 +211,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17817484711226830744&track_id=CA574EE8-FDFB-4D41-9753-46A497D66650_768741864211"
-</iframe>
+></iframe>
 
 ### 美联储理事警告美关税政策推高通胀 扰乱供应链
 
@@ -226,7 +225,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17779772264987581462&track_id=565F9A6B-645C-40D5-BB84-9FF152BF83A2_768741917558"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -242,7 +241,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15185658634019566582&track_id=A4131CE7-967A-469A-9523-A735616D2682_768741989156"
-</iframe>
+></iframe>
 
 ---
 

@@ -1,6 +1,5 @@
 # 《新闻联播》20250506
 
-# 《新闻联播》20250506
 
 男主持人（**康辉**）：“各位观众晚上好。”
 
@@ -26,7 +25,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9565011146299344097&track_id=D8CBFD11-1122-45AD-9F86-017EFFA0FC35_768829110221"
-</iframe>
+></iframe>
 
 ### 【新思想引领新征程】消费活力持续释放 折射中国经济澎湃动力
 
@@ -64,7 +63,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15132555681144235334&track_id=8A77C774-0B1D-4128-92EB-E6FD66450499_768829356829"
-</iframe>
+></iframe>
+
 ### 赵乐际出席全国人大常委会森林法执法检查组第一次全体会议
 
 中共中央政治局常委、全国人大常委会委员长赵乐际6日在京出席全国人大常委会森林法执法检查组第一次全体会议并讲话。他强调，要深入学习贯彻习近平生态文明思想，贯彻落实习近平总书记关于林业工作的重要论述和党中央决策部署，立足人大职能职责，推动森林法全面有效实施，为保护培育和合理利用森林资源、促进林业高质量发展提供法治保障。
@@ -81,15 +81,24 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3244895875048033861&track_id=6249E121-41BE-4136-A7ED-22EE03AA0D9F_768829444238"
-</iframe>
-
+></iframe>
 ### 丁薛祥出席学习《习近平经济文选》第一卷专题研讨班并作报告
+
+学习《习近平经济文选》第一卷专题研讨班6日上午开班，中共中央政治局常委、国务院副总理丁薛祥出席并作开班报告。
+
+丁薛祥指出，党的十八大以来，以习近平同志为核心的党中央加强对经济工作的集中统一领导，提出一系列新理念、新思想、新战略，形成了习近平经济思想，成功开拓了马克思主义政治经济学新境界。党的科学理论与伟大实践同频共进，引领我国经济发展取得历史性成就、发生历史性变革，充分彰显了习近平经济思想的重大理论意义、实践意义、世界意义。
+
+丁薛祥表示，要深刻把握习近平经济思想的核心要义和实践要求，以高质量发展全面推进中国式现代化。坚持以人民为中心，牢记民心是最大的政治，让发展成果更多更公平惠及全体人民。坚持完整准确全面贯彻新发展理念，加快构建新发展格局，推动经济实现质的有效提升和量的合理增长。坚持科学的思想方法和工作方法，保持战略定力，坚持稳中求进，强化系统观念，更好统筹发展和安全。
+
+丁薛祥强调，以习近平同志为核心的党中央集中统一领导，是我国经济航船乘风破浪、行稳致远的根本保证。各级领导干部要不断深化对“两个确立”决定性意义的认识，更加重视从讲政治的高度做经济工作，提高能力水平，改进工作作风，确保党中央决策部署落地见效。
+
+石泰峰主持，陈希出席。
 
 <iframe  
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16973732898528270353&track_id=08AAB05B-1838-46AC-8BDA-5ECBBBE6E1C3_768829466259"
-</iframe>
+></iframe>
 
 ### 【在希望的田野上】科技赋能夯实粮食丰收基础
 
@@ -105,7 +114,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1371485341068911729&track_id=9751790C-A3C8-47DA-A1B0-391BFAA78AFE_768829542403"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -169,7 +178,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4561516832824187223&track_id=8A478510-C304-48C9-ADF8-CD06B97A35AA_768829599010"
-</iframe>
+></iframe>
 
 ### 俄罗斯各界热切期待习近平主席对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典
 
@@ -181,7 +190,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5284020073817480049&track_id=CCEC897F-F49F-4B2F-B0BD-FC5EA70B78DD_768829659579"
-</iframe>
+></iframe>
 
 ### 美4月服务业价格指数达两年多最高 美专家称美关税政策负面影响显现
 
@@ -201,7 +210,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17278890942579346805&track_id=5D53B8FF-245A-4B4D-A5D7-A97970DB2AB1_768829743594"
-</iframe>
+></iframe>
 
 ### 以军对也门发动空袭 胡塞武装称美以袭击造成至少4死39伤
 
@@ -217,7 +226,8 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7508819773197720917&track_id=B0C967BC-653E-4A15-8650-58F355835ABD_768829988285"
-</iframe>
+></iframe>
+
 ### 国际联播快讯
 
 **伊朗表示不会寻求将其核项目军事化**
@@ -242,7 +252,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=18107043002938924991&track_id=4C71187D-5871-465B-864D-8614E29786A0_768830060092"
-</iframe>
+></iframe>
 
 
 ---

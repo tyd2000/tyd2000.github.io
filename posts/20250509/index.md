@@ -1,6 +1,5 @@
 # 《新闻联播》20250509
 
-# 《新闻联播》20250509
 
 男主持人（**潘涛**）：“各位观众晚上好。”
 
@@ -32,7 +31,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5551652250342786242&track_id=1E8A3937-F79B-4E80-B68D-F9A7A4887650_768742562653"
-</iframe>
+></iframe>
 
 ### 习近平同俄罗斯总统共同会见记者
 
@@ -58,7 +57,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=693493915295994573&track_id=F3445C5E-AC4D-4E90-ABF1-39EE73BAA89F_768742654013"
-</iframe>
+></iframe>
 
 ### 习近平同俄罗斯总统茶叙
 
@@ -76,7 +75,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10576914952318212199&track_id=F96B8BBA-F880-40E2-AF29-4F9397B60FA8_768742797668"
-</iframe>
+></iframe>
 
 ### 习近平同瑞典国王就中瑞建交75周年互致贺电
 
@@ -90,7 +89,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10037354786846610066&track_id=369A4891-E401-46EC-A45A-0CCEA20B6E83_768742895314"
-</iframe>
+></iframe>
 
 ### 李强主持召开国务院常务会议
 
@@ -114,7 +113,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7090548270572944045&track_id=C9735E07-0431-4B73-833B-8B31DF930EBE_768742948302"
-</iframe>
+></iframe>
 
 ### 赵乐际在福建调研和开展执法检查
 
@@ -132,7 +131,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1590445191338261963&track_id=23B2CC54-F73C-43D6-BCC4-8B6D33BACA5D_768743040167"
-</iframe>
+></iframe>
 
 ### 4月份我国货物贸易进出口同比增长5.6%
 
@@ -152,7 +151,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2538989694669592425&track_id=EBA0AA23-D9E1-4693-BBE5-C2E447702185_768743109457"
-</iframe>
+></iframe>
 
 ### 全国人大常委会启动食品安全法执法检查
 
@@ -166,7 +165,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=6594210401107455007&track_id=E8BCEE60-B00F-4B84-9B58-18DEB725D6F1_768743158960"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -194,7 +193,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2204649840218258373&track_id=38E779B8-30D5-4D71-9866-F9DC28088D36_768743212748"
-</iframe>
+></iframe>
 
 ### 加强人文交流 传承伟大友谊——习近平主席贺信为中俄人民相知相亲注入新动力
 
@@ -208,7 +207,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5296109592436739562&track_id=95DDD05D-91F4-442E-81C8-17C5309BB3FA_768743286657"
-</iframe>
+></iframe>
 
 ### 高盛专家称美国关税政策将大幅推高通胀
 
@@ -222,7 +221,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12738479169177312&track_id=BE89E309-38E5-4498-AE69-BB90AA7EA30A_768743342213"
-</iframe>
+></iframe>
 
 
 ---

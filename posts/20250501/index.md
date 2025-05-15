@@ -1,8 +1,6 @@
 # 《新闻联播》20250501
 
 
-# 《新闻联播》20250501
-
 男主持人（**康辉**）：“各位观众晚上好。”
 
 女主持人（**宝晓峰**）：“晚上好。”
@@ -31,8 +29,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16063484991342266558&track_id=2FFF5445-8E22-4F21-B155-5C3CFEDF0669_768870947655"
-</iframe>
-
+></iframe>
 
 ### 用创造拥抱新时代 以奋斗铸就新辉煌——习近平总书记在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会发表的重要讲话引发热烈反响
 
@@ -48,7 +45,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10219314920119157074&track_id=32ADFE3D-90A6-4BA3-B7A0-1C1DD8E7B33E_768871747698"
-</iframe>
+></iframe>
 
 ### 李强签署国务院令 公布修订后的《中华人民共和国植物新品种保护条例》
 
@@ -62,7 +59,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7340036521551110072&track_id=169B373F-1B37-430B-9D27-A9003BAE3DDC_768871756736"
-</iframe>
+></iframe>
 
 ### 一季度全国城镇新增就业308万人
 
@@ -78,7 +75,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13123728335147938091&track_id=E15A225C-485A-49BC-B682-2736D12E1564_768871763448"
-</iframe>
+></iframe>
 
 ### 一季度物流开局稳中向好 运行效率提升
 
@@ -90,7 +87,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12638589644923549093&track_id=97800226-78CD-419A-B1DA-706F4CE42C67_768871769335"
-</iframe>
+></iframe>
 
 ### 【大国工匠】刘争：薄壁精雕 重器问天
 
@@ -112,7 +109,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=11155701163706810715&track_id=AAC5BDAD-2B3A-45F4-ACBB-2947A35B5DE8_768871775922"
-</iframe>
+></iframe>
 
 ### 特色活动精彩纷呈 假日生活丰富多彩
 
@@ -132,7 +129,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5905373875067596547&track_id=981E1802-9BF7-4DF1-9E83-0A93F67DA41F_768871782351"
-</iframe>
+></iframe>
 
 ### “五一”假期 全国多地旅游迎来开门红
 
@@ -146,7 +143,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1182948056525778091&track_id=A1348B04-809B-476A-80C8-C658D22C72AF_768871788679"
-</iframe>
+></iframe>
 
 ### “五一”假期首日迎来出行高峰
 
@@ -162,7 +159,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17673289283823037902&track_id=997304F4-D811-43D2-8019-4F2F25BBA2AB_768871797051"
-</iframe>
+></iframe>
 
 ### 中国空间站第八批实验样品返回并交付科学家
 
@@ -174,7 +171,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14538539703872693029&track_id=F3A438E2-A0DC-4949-AC1D-AE3547C662FB_768871805939"
-</iframe>
+></iframe>
 
 ### 第137届广交会第三期开展
 
@@ -188,7 +185,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4545031551487036872&track_id=2A255B62-C23D-4BE3-A6A8-14A45176E2DB_768871812518"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -220,7 +217,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8158057788386318033&track_id=DA540754-8BCA-4A34-A4EC-81C2C3B2B0D7_768871827869"
-</iframe>
+></iframe>
 
 ### 美国第一季度经济环比萎缩0.3% 三年来首次出现负增长
 
@@ -236,7 +233,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8900351435719321237&track_id=67A2789A-E3B7-481E-BFD6-F829D43A18D1_768871834872"
-</iframe>
+></iframe>
 
 ### 俄称打击乌军工企业 乌称多地遭俄无人机袭击
 
@@ -252,7 +249,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9141773812698806282&track_id=B2A2358B-C88A-49F4-A5A0-4639775D99AA_768871842561"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -274,7 +271,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5325713831400125095&track_id=30EC5161-2E55-4FA5-8650-67016D159666_768871850832"
-</iframe>
+></iframe>
 
 ### 流动的中国
 
@@ -284,7 +281,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8786665843935055242&track_id=9EDAD4FB-7F05-40A1-A97F-8C8D0E520BF7_768871857644"
-</iframe>
+></iframe>
 
 
 ---

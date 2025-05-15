@@ -1,6 +1,5 @@
 # 《新闻联播》20250502
 
-# 《新闻联播》20250502
 
 男主持人（**刚强**）：“各位观众晚上好。”
 
@@ -32,7 +31,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10504094919546581605&track_id=27BB9A58-8FEE-4B1D-AB81-23922DF9FF98_768880376644"
-</iframe>
+></iframe>
 
 ### 假期活动丰富多彩 节日消费持续升温
 
@@ -50,7 +49,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3074977489974413232&track_id=EE0AF8BD-D731-4253-88DB-C4A4CC4A9E70_768880388550"
-</iframe>
+></iframe>
 
 ### 【文化中国行】文博游火热 沉浸式感受中华传统文化
 
@@ -70,7 +69,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5403356292253820420&track_id=50E1B34F-83D1-4E10-A03B-56B972BE55C5_768880397405"
-</iframe>
+></iframe>
 
 ### “五一”假期第二天 短途客流增长明显
 
@@ -86,7 +85,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4048199796891624479&track_id=8D8D5D0B-3535-4570-A971-F84F1FC34D7D_768880404551"
-</iframe>
+></iframe>
 
 ### “以旧换新”激发消费市场新活力
 
@@ -112,7 +111,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4383886925623359595&track_id=A76D09BF-9200-4D48-9D8D-8D82A9AACCC5_768880411172"
-</iframe>
+></iframe>
 
 ### 【劳动者之歌】邓晶：煤化工一线的技改尖兵
 
@@ -130,7 +129,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3398181558639874289&track_id=FC6AFBA7-AE3B-46EC-8D39-E1726A939550_768880417875"
-</iframe>
+></iframe>
 
 ### 红色前哨连：永葆本色铸忠诚
 
@@ -148,7 +147,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4004068677393075804&track_id=89A03F8D-8297-4745-BE7D-67697FD1FE78_768880425338"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -184,7 +183,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16805402162382033129&track_id=E991788D-E799-46A9-80A9-EEA4F02AFE70_768880432508"
-</iframe>
+></iframe>
 
 ### 美国商会致信美政府 称加征关税将给小企业造成无法弥补伤害
 
@@ -204,7 +203,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3609953300837343129&track_id=76085F53-9737-4469-AD88-F21931F01FCF_768880439804"
-</iframe>
+></iframe>
 
 ### 以称将动员更多预备役部队参与加沙军事行动 哈马斯称打击以军士兵
 
@@ -222,7 +221,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17069479415935405007&track_id=75BBCF6E-869A-4E52-9888-DAE02FDEE0D3_768880446315"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -248,7 +247,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10344851328729928518&track_id=5DF4ADEF-7859-4965-A11B-DCD7C672E0DC_768880454087"
-</iframe>
+></iframe>
 
 ### 流动的中国
 
@@ -258,7 +257,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1305534677722870913&track_id=0637EA76-FB65-475C-9E3F-5C9FE80830AB_768880463042"
-</iframe>
+></iframe>
 
 
 ---

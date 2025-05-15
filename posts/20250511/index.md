@@ -1,6 +1,5 @@
 # 《新闻联播》20250511
 
-# 《新闻联播》20250511
 
 男主持人（**潘涛**）：“各位观众晚上好。”
 
@@ -16,7 +15,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7604850286205837799&track_id=D0956E2F-F0AB-486D-A471-3B8250CF09FD_768663378569"
-</iframe>
+></iframe>
 
 ### 铁肩担道义，历史鉴未来——习近平主席对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典取得圆满成功
 
@@ -64,7 +63,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12377543378427615187&track_id=A238B5E4-093E-4B02-97C0-492667234884_768664151280"
-</iframe>
+></iframe>
 
 ### 习近平将出席中国－拉美和加勒比国家共同体论坛第四届部长级会议开幕式并发表重要讲话
 
@@ -84,7 +83,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12853420215029174432&track_id=9F912D2D-A7E8-4AE7-BEB3-3AC65389202D_768664639489"
-</iframe>
+></iframe>
 
 ### 深入贯彻中央八项规定精神学习教育中央指导组完成进驻
 
@@ -102,7 +101,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=273899562882262442&track_id=09521B4E-9517-43CF-A3AE-C3BDF558DFAA_768664847806"
-</iframe>
+></iframe>
 
 ### 神舟二十号航天员乘组有序推进多项空间科学实验
 
@@ -118,7 +117,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2372199278581686389&track_id=32A785F8-6FBE-4951-A5D2-E879F9C0C5C4_768665003902"
-</iframe>
+></iframe>
 
 ### 外资持续增资扩产 加快布局中国
 
@@ -136,7 +135,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9579406515837391890&track_id=B8D5B84A-6D1B-4C40-89DF-16D285528B76_768665102825"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -164,7 +163,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15554463300962581086&track_id=BB0222B9-E23F-4E6E-84C6-FCFC1CF8843A_768665195227"
-</iframe>
+></iframe>
 
 ### 携手为人类前途命运争取更加光明的未来——国际社会高度评价习近平主席俄罗斯之行
 
@@ -176,7 +175,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5163019522901940545&track_id=3D92DE05-7D80-4DA5-879B-51A534E85F08_768665304455"
-</iframe>
+></iframe>
 
 ### 美媒称美国农业经济已受到美关税政策冲击
 
@@ -192,7 +191,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=10947754698315667453&track_id=D489C518-0555-417A-BF27-C30F8ABAA10D_768665369624"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -214,7 +213,7 @@
     width="100%"  
     height="450"  
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8880001557276783299&track_id=8484FE9E-B630-4B69-8566-04ED293BF31A_768665457789"
-</iframe>
+></iframe>
 
 
 ---

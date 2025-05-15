@@ -1,6 +1,5 @@
 # 《新闻联播》20250505
 
-# 《新闻联播》20250505
 
 男主持人（**康辉**）：“各位观众晚上好。”
 
@@ -30,7 +29,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4535403478488970058&track_id=03ABD336-C082-42C5-AA31-9DAF7612F126_768885578165"
-</iframe>
+></iframe>
 
 ### 【促进民营经济高质量发展】政策举措落地显效 民营经济发展动能强
 
@@ -50,7 +49,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9538297612018067220&track_id=95F522BF-9655-4EEC-98C1-89B8498A2D26_768885585953"
-</iframe>
+></iframe>
 
 ### 【锲而不舍落实中央八项规定精神】走在前 作表率 中央和国家机关推动学习教育取得扎实成效
 
@@ -68,7 +67,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14065227374501379172&track_id=DB507223-0A72-492D-9557-17F1622C01A4_768885595525"
-</iframe>
+></iframe>
 
 ### 【在希望的田野上】夏粮进入产量形成关键期 春播迎来高峰
 
@@ -94,7 +93,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13575497479769674079&track_id=F78E0BAB-1C51-4A81-BF9D-C2E62954A54F_768885602387"
-</iframe>
+></iframe>
 
 ### “五一”假期预计全社会跨区域人员流动量累计14.67亿人次
 
@@ -110,7 +109,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=16161518105998595992&track_id=EB87FF36-1124-4A93-B8B5-85ADE164C04C_768885608674"
-</iframe>
+></iframe>
 
 ### “五一”假期高速公路服务区新能源汽车充电量创同期新高
 
@@ -128,7 +127,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15086555949859581182&track_id=1CD4CA44-4156-4D88-BD39-68AA22700FAB_768885614686"
-</iframe>
+></iframe>
 
 ### 入境游热度攀升 政策红利持续释放
 
@@ -146,7 +145,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=12583211089075605120&track_id=A01C0810-E9EA-43BC-9C72-E6BBC6200232_768885620698"
-</iframe>
+></iframe>
 
 ### 【新时代的青春之歌】战舰“新青年”：青春逐浪向深蓝
 
@@ -164,7 +163,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17330023352151076995&track_id=0C2454A1-7829-4871-B5DF-3C72E9CAF58A_768885627051"
-</iframe>
+></iframe>
 
 ### 第137届广交会今天闭幕
 
@@ -178,7 +177,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9259986061638037198&track_id=45EC5B8A-2B7E-43ED-BD71-A9F025599BB2_768885633522"
-</iframe>
+></iframe>
 
 ### 国内联播快讯
 
@@ -198,7 +197,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=14517534776323234348&track_id=95002DCE-F7CD-4CB1-8C1C-DAB976CDE15E_768885703261"
-</iframe>
+></iframe>
 
 ### 普京表示俄中关系对维护世界稳定具有战略意义
 
@@ -208,7 +207,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3489344682928711107&track_id=2EDCFE19-7D25-4363-B562-506090407B10_768885712867"
-</iframe>
+></iframe>
 
 ### 美称对在外国制作电影征收100%关税 美舆论认为美娱乐产业将遭重创
 
@@ -228,7 +227,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7444879429647202525&track_id=7145A004-66F7-42B6-888C-7A2AFA050AB7_768885721922"
-</iframe>
+></iframe>
 
 ### 也门多地再遭美军大规模空袭
 
@@ -246,7 +245,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=18025341765707826052&track_id=B849521C-460E-474F-97A2-B80F6A511D8D_768885730593"
-</iframe>
+></iframe>
 
 ### 国际联播快讯
 
@@ -266,7 +265,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=3113215636753100158&track_id=30F5503D-855D-4F96-A036-1FB9FBEF9F07_768885738832"
-</iframe>
+></iframe>
 
 ### 二十四节气·立夏
 
@@ -284,7 +283,7 @@
     width="100%"
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8811154266610418393&track_id=7EEA38EC-B124-4C2C-8E8C-BC71825EA7F5_768885745569"
-</iframe>
+></iframe>
 
 
 ---
