@@ -164,6 +164,7 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=5673084721328482902&track_id=69CF1B7D-FDB4-4DCA-9C2E-F23A0B5EFA50_769008439408"
 ></iframe>
+
 ### 国内联播快讯
 
 **1至4月全国铁路发送旅客14.6亿人次**
@@ -231,6 +232,7 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=9557952339370260951&track_id=94632438-BD85-4D09-BF6C-3F7AB5062766_769008455757"
 ></iframe>
+
 ### 俄称已在伊斯坦布尔准备好与乌直接谈判 乌称了解俄代表团情况后考虑下一步行动
 
 俄罗斯外交部发言人扎哈罗娃今天（5月15日）表示，俄方代表团已在土耳其伊斯坦布尔准备好就与乌克兰的谈判开展认真的工作。根据俄总统府公布的消息，俄方谈判代表团团长为俄总统助理梅金斯基，代表团成员包括俄副外长加卢津、俄武装力量总参谋部总局局长科斯秋科夫、俄国防部副部长福明以及4名专家。俄总统新闻秘书佩斯科夫14日接受总台记者采访时说，15日的谈判将以2022年俄乌直接谈判为基础，并考虑当前新的现实。佩斯科夫还表示，俄美关系改善与乌克兰危机的解决没有关联，两个问题正分别推进。
@@ -242,6 +244,7 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=8734992452858652464&track_id=6376C162-1176-4D6C-8E77-31FD65638422_769008465238"
 ></iframe>
+
 ### 国际联播快讯
 
 **侵华日军细菌战三支部队档案在日公开**
@@ -261,6 +264,7 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=13365678347895359052&track_id=16DB6EED-0D29-44E2-82DC-D847425BA746_769008472815"
 ></iframe>
+
 
 ---
 
