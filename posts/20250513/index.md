@@ -1,6 +1,14 @@
 # 《新闻联播》20250513
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3427512965857692764&track_id=68292365-962A-4CCC-B4BD-FCAAAC45792D_769012490946"
+></iframe>
+
 男主持人（**严於信**）：“各位观众晚上好。”
 
 女主持人（**王音棋**）：“晚上好。”
@@ -288,7 +296,6 @@
     height="450"
     src="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=7479068678842371262&track_id=C38ACBE6-01CF-408E-BE3F-BCDE0E299E05_768841132392"
 ></iframe>
-
 
 ---
 

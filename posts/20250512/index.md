@@ -1,6 +1,14 @@
 # 《新闻联播》20250512
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=16075732147919189222&track_id=FFDA8929-7ACB-4A21-8D1B-7BA5B14DD163_769015840440"
+></iframe>
+
 男主持人（**刚强**）：“各位观众晚上好。”
 
 女主持人（**李梓萌**）：“晚上好。”

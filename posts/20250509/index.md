@@ -1,6 +1,14 @@
 # 《新闻联播》20250509
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=8814618894378088918&track_id=B8DCC7D0-F921-447F-B817-F1A0F77A9310_769015986619"
+></iframe>
+
 男主持人（**潘涛**）：“各位观众晚上好。”
 
 女主持人（**郑丽**）：“晚上好。”

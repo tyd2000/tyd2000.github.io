@@ -1,6 +1,14 @@
 # 《新闻联播》20250428
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=10593574067116164951&track_id=AE23E326-3BC0-4568-99CC-4073D1682AB7_769016286986"
+></iframe>
+
 男主持人（**潘涛**）：“各位观众晚上好。”
 
 女主持人（**王音棋**）：“晚上好。”

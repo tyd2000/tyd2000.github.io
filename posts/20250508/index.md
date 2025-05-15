@@ -1,6 +1,14 @@
 # 《新闻联播》20250508
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=1427055190108863379&track_id=618E1E0A-265B-4CE1-8043-9D5B6AC4B56F_769016016908"
+></iframe>
+
 男主持人（**严於信**）：“各位观众晚上好。”
 
 女主持人（**王音棋**）：“晚上好。”

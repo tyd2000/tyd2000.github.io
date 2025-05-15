@@ -1,6 +1,14 @@
 # 《新闻联播》20250501
 
 
+### 今日《新闻联播》速览
+
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5521782823577509138&toc_style_id=feeds_default&track_id=B3C2B266-E283-486C-8D02-82471DC40DC4_769016212759"
+></iframe>
+
 男主持人（**康辉**）：“各位观众晚上好。”
 
 女主持人（**宝晓峰**）：“晚上好。”
