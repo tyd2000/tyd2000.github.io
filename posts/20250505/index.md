@@ -6,14 +6,14 @@
 <iframe
     width="100%"
     height="450"
-    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14125110199094229707&toc_style_id=feeds_default&track_id=7315F8D0-93F3-4606-8A2F-456149ED9ECC_769016086937"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14125110199094229707&track_id=7315F8D0-93F3-4606-8A2F-456149ED9ECC_769016086937"
 ></iframe>
 
 男主持人（**康辉**）：“各位观众晚上好。”
 
 女主持人（**宝晓峰**）：“晚上好。”
 
-“今天是5月5号，星期一，农历四月初八”
+“今天是5月5号，星期一，农历四月初八。”
 
 “今天是二十四节气中的**立夏**，欢迎收看《新闻联播》节目。”
 
