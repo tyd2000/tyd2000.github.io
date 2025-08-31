@@ -287,5 +287,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://25baby.cloud/posts/20250326/  
+> URL: https://tyd2000.github.io/posts/20250326/  
 

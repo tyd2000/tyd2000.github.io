@@ -279,5 +279,5 @@ RCEP是全球最大的自贸协定，包括中国、澳大利亚、日本、韩�
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://25baby.cloud/posts/20250629/  
+> URL: https://tyd2000.github.io/posts/20250629/  
 
