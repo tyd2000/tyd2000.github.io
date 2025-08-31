@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行测笔记 - 标签 - Baby Cloud</title>
+    <link>http://localhost:1313/tags/%E8%A1%8C%E6%B5%8B%E7%AC%94%E8%AE%B0/</link>
+    <description>备考学习的笔记</description>
+    <generator>Hugo 0.147.8 &amp; FixIt v0.3.21-a85a6655</generator>
+    <language>zh-CN</language>
+    <managingEditor>tanyaodan@qq.com (t0ur1st)</managingEditor>
+    <webMaster>tanyaodan@qq.com (t0ur1st)</webMaster>
+    <copyright>t0ur1st</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%A1%8C%E6%B5%8B%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
