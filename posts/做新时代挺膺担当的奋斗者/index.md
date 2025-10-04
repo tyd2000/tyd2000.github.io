@@ -21,5 +21,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/%E5%81%9A%E6%96%B0%E6%97%B6%E4%BB%A3%E6%8C%BA%E8%86%BA%E6%8B%85%E5%BD%93%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85/  
+> URL: https://25baby.cloud/posts/%E5%81%9A%E6%96%B0%E6%97%B6%E4%BB%A3%E6%8C%BA%E8%86%BA%E6%8B%85%E5%BD%93%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85/  
 

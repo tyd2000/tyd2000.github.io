@@ -1046,5 +1046,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/%E5%9F%BA%E5%B1%82%E6%B2%BB%E7%90%86%E8%A7%84%E8%8C%83%E8%AF%8D/  
+> URL: https://25baby.cloud/posts/%E5%9F%BA%E5%B1%82%E6%B2%BB%E7%90%86%E8%A7%84%E8%8C%83%E8%AF%8D/  
 

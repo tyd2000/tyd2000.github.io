@@ -263,5 +263,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/20250816/  
+> URL: https://25baby.cloud/posts/20250816/  
 

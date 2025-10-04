@@ -97,4 +97,4 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
-Sitemap: https://tyd2000.github.io/sitemap.xml
+Sitemap: https://25baby.cloud/sitemap.xml

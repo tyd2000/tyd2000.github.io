@@ -149,5 +149,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/%E8%AE%A9%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9D%A3%E5%AF%9F%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C/  
+> URL: https://25baby.cloud/posts/%E8%AE%A9%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9D%A3%E5%AF%9F%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C/  
 

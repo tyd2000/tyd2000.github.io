@@ -280,5 +280,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/%E6%AD%A3%E4%B9%89%E5%BF%85%E8%83%9C-%E5%92%8C%E5%B9%B3%E5%BF%85%E8%83%9C-%E4%BA%BA%E6%B0%91%E5%BF%85%E8%83%9C/  
+> URL: https://25baby.cloud/posts/%E6%AD%A3%E4%B9%89%E5%BF%85%E8%83%9C-%E5%92%8C%E5%B9%B3%E5%BF%85%E8%83%9C-%E4%BA%BA%E6%B0%91%E5%BF%85%E8%83%9C/  
 
