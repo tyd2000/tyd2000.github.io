@@ -151,5 +151,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://25baby.cloud/posts/%E8%8B%8F%E8%B6%85%E4%BD%95%E4%BB%A5%E7%88%86%E7%81%AB/  
+> URL: https://tyd2000.github.io/posts/%E8%8B%8F%E8%B6%85%E4%BD%95%E4%BB%A5%E7%88%86%E7%81%AB/  
 
