@@ -1,9 +1,11 @@
 # “十五五”民生蓝图：就业、收入、教育等将迎哪些红利?
 
 
-# “十五五”民生蓝图：就业、收入、教育等将迎哪些红利?
-
-> 新闻联播微信公众号 [原文链接](https://mp.weixin.qq.com/s/ljoiBOe5BWs_edDlFtHezg)
+<iframe
+    width="100%"
+    height="450"
+    src="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5862213143867622613"
+></iframe>
 
 今天（10月28日），《[中共中央关于制定国民经济和社会发展第十五个五年规划的建议](/posts/十五五规划建议全文发布/)》公布。
 
