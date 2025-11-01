@@ -175,7 +175,7 @@
 
 {{< show-text id=3 buttonText="查看答案" >}}
 
-<strong>参考答案</strong>
+<strong>参考答案</strong><br>
 
 <h3 style="text-align: center;">扬州市第三届大运河青年文创产业合作大会胜利召开</h3>
 
@@ -209,7 +209,7 @@
 
 {{< show-text id=4 buttonText="查看答案" >}}
 
-<strong>参考答案</strong>
+<strong>参考答案</strong><br>
 
 <h3 style="text-align: center;">以文化创新之笔，绘新质生产力蓝图</h3>
 <p>&emsp;&emsp;“求木之长者，必固其根本；欲流之远者，必浚其泉源。”文化，作为民族的精神内核，国家的灵魂血脉，在时代的浪潮中奔腾不息。习近平总书记强调“要着力激发全民族文化创新创造活力”，为文化发展指明方向。在新质生产力蓬勃发展的当下，以文化创新赋能，用文化创造助力，方能在奋进新征程中奏响华彩乐章。</p>
@@ -220,7 +220,7 @@
 
 {{< figure src="/images/25js4.jpg" >}}
 
-<strong>文章分析</strong>
+<strong>文章分析</strong><br>
 
 <h3 style="text-align: center;">以文化创新之笔，绘新质生产力蓝图</h3>
 【标题的优点：首先，范文的标题突出了“文化创新赋能新质生产力，文化创造助力奋进新征程”这一主题。其次，形式上，文字简洁明快，不拖沓。】<br>
