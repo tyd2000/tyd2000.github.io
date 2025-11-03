@@ -187,8 +187,6 @@ There are also steps to make working across borders easier. Hong Kong and Macau 
 
 还有一些措施使跨境工作更加便利。港澳居民现在可以申请内地城市的居住证，让他们能够享受教育、医疗和住房服务。跨境旅行也由于新许可证和通行证的推出而简化。
 
-【未完待续....】
-
 In finance, programs like the Stock Connect and Wealth Management Connect allow investors in Hong Kong, Macau and Guangdong to move money and investments more freely across the region. 
 
 在金融领域，股票通和理财通等项目允许香港、澳门和广东的投资者能够更自由地在该区域内转移资金和投资。
