@@ -26,7 +26,7 @@ Inside that area live more than 70 million people. That’s more than the popula
 
 All concentrated in a coastal zone, you can cross by train in just a couple of hours. China is calling this the Guangdong-Hong Kong-Macau Greater Bay Area. The name is not random.
 
-所有一切都集中在沿海地区，你乘坐火车仅需几个小时就能横穿。中国将这一区域称为“粤港澳大湾”，这个名字并非随意取的。
+所有一切都集中在沿海地区，你乘坐火车仅需几个小时就能横穿。中国将这一区域称为“粤港澳大湾区”，这个名字并非随意取的。
 
 It’s modeled after other global hubs like Tokyo Bay or San Francisco Bay, both known for combining multiple cities into powerful economic engines. The goal is to make China’s Bay Area compete on the same stage, and possibly surpass them.
 
@@ -34,13 +34,13 @@ It’s modeled after other global hubs like Tokyo Bay or San Francisco Bay, both
 
 Economically, the Greater Bay Area already produces around two trillion dollars of GDP a year, putting it on par with entire countries like Canada or Italy. So what exactly makes this cluster of cities so important, and why spend so much to tie them together?
 
-从经济角度看，大湾区每年已经创造出约2万亿美元的GDP，使其与加拿大或意大利等整个国家不相上下。那么，这个城市群究竟为何如此重要，又为什么要投入巨资将它们连接起来呢？
+从经济角度看，粤港澳大湾区每年已经创造出约2万亿美元的GDP，使其与加拿大或意大利等整个国家不相上下。那么，这个城市群究竟为何如此重要，又为什么要投入巨资将它们连接起来呢？
 
 That’s where we need to start, by looking at what’s actually inside this region and what each city brings to the table. The Greater Bay Area includes nine mainland cities in Guangdong province, plus the two special administrative regions of Hong Kong and Macau.
 
-我们应当从这个区域的实际状况着手，分析各城市对大湾区的贡献。大湾区包括广东省九个内地城市，以及香港和澳门两个特别行政区。
+我们应当从这个区域的实际状况着手，分析各城市对粤港澳大湾区的贡献。粤港澳大湾区包括广东省九个内地城市，以及香港和澳门两个特别行政区。
 
-Individually, these cities are already strong. Shenzhen is a Tech powerhouse, home to HUAWEI, Tencent and d ji. Hong Kong is one of the world’s top financial centers. Guangzhou has been a major trading hub for centuries. But on their own, they can’t match the combined strength of global regions like Tokyo Bay, New York or Silicon Valley.
+Individually, these cities are already strong. Shenzhen is a Tech powerhouse, home to HUAWEI, Tencent and DJI. Hong Kong is one of the world’s top financial centers. Guangzhou has been a major trading hub for centuries. But on their own, they can’t match the combined strength of global regions like Tokyo Bay, New York or Silicon Valley.
 
 单独来看，这些城市各自实力雄厚：深圳是科技重镇，汇聚了华为、腾讯和大疆等科技巨头；香港是全球顶级金融中心之一；广州作为重要贸易枢纽已有数百年历史。但单凭其本身而言，它们仍难以匹敌东京湾、纽约或硅谷等全球顶级都市圈的综合实力。
 
