@@ -8,21 +8,25 @@
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115476554319242&bvid=BV14AyXBTE5H&cid=33608436110&p=1&autoplay=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-China has a plan worth nearly one trillion dollars, not for a single skyscraper or a new railway line, but to merge nine mainland cities, plus Hong Kong and Macau, into one connected giant super city. It sits on China’s southern coast, around the mouth of the pearl river delta.
+China has a plan worth nearly one trillion dollars, not for a single skyscraper or a new railway line, but to merge nine mainland cities, plus Hong Kong and Macau, into one connected giant super city. It sits on China’s southern coast, around the mouth of the Pearl River Delta.
 
 中国正在推进一项价值近万亿美元的计划，不是用于建造一座摩天大楼或修建一条新铁路线，而是要将九个内地城市加上香港和澳门，融合成一个互联互通的巨型超级城市群。它坐落在中国南部沿海地区，环绕着珠江三角洲入海口。
 
 On the map, it looks like a cluster of cities packed close together Hong Kong, Macau, Guangzhou, Shenzhen and several others. But the Chinese government doesn’t see them as separate dots. It sees them as pieces of a larger puzzle that, once fitted together, could form one of the most powerful metropolitan regions on Earth.
 
-在地图上，它看起来像一个密集的城市群，香港、澳门、广州、深圳和其他几个城市。但中国政府并不认为它们是单独的点，而是看作一个更大拼图的组成部分，一旦拼合起来，就可能形成全球最具影响力的大都市区之一。
+在地图上，它看起来像一个密集的城市群，香港、澳门、广州、深圳和其他几个城市。但中国政府并不认为它们是单独的点，而是看作一个更大拼图的组成部分，一旦拼合起来，就可能形成全球最具影响力的大都市圈之一。
 
 The numbers give you a sense of scale. This region covers about 56,000 square kilometers, roughly the size of West Virginia in the United States or twice the size of Wales in the UK.
 
 这些数字能让你对它的规模有个概念。该区域占地面积约5.6万平方公里，大致相当于美国西弗吉尼亚州的面积，或是英国威尔士面积的两倍。
 
-Inside that area live more than 70 million people. That’s more than the population of France, all concentrated in a coastal zone, you can cross by train in just a couple of hours. China is calling this the Guangdong-Hong Kong-Macau Greater Bay Area. The name is not random.
+Inside that area live more than 70 million people. That’s more than the population of France. 
 
-这片地区居住着7000多万人口。这个数字甚至比法国总人口还要多，并且全部集中在乘坐火车仅需几个小时就能横穿的沿海地带。中国将这一区域称为“粤港澳大湾”，这个名字并非随意取的。
+这片地区居住着7000多万人口。这个数字甚至比法国总人口还要多。
+
+All concentrated in a coastal zone, you can cross by train in just a couple of hours. China is calling this the Guangdong-Hong Kong-Macau Greater Bay Area. The name is not random.
+
+所有一切都集中在沿海地区，你乘坐火车仅需几个小时就能横穿。中国将这一区域称为“粤港澳大湾”，这个名字并非随意取的。
 
 It’s modeled after other global hubs like Tokyo Bay or San Francisco Bay, both known for combining multiple cities into powerful economic engines. The goal is to make China’s Bay Area compete on the same stage, and possibly surpass them.
 
@@ -66,7 +70,7 @@ The challenge is turning that idea into a functioning reality. And that’s wher
 
 In 2008, China’s central planners floated a bold idea, merge the nine mainland cities of the Pearl River Delta into one vast urban cluster. At the time, it sounded ambitious, even unrealistic. 
 
-2008年，中国中央规划者提出一个大胆的想法，将珠江三角洲的九个城市合并成一个庞大的城市群。在当时，这个想法听起来雄心勃勃，甚至不切实际。
+2008年，中国党中央决策层提出一个大胆的想法，将珠江三角洲的九个城市合并成一个庞大的城市群。在当时，这个想法听起来雄心勃勃，甚至不切实际。
 
 But it wasn’t just talk the government started. The government started mapping out how to integrate transport, industry, and resources across the region. 
 
