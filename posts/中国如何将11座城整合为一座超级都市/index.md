@@ -15,7 +15,7 @@ On the map, it looks like a cluster of cities packed close together Hong Kong, M
 
 在地图上，它看起来像一个密集的城市群，香港、澳门、广州、深圳和其他几个城市。但中国政府并不认为它们是单独的点，而是看作一个更大拼图的组成部分，一旦拼合起来，就可能形成全球最具影响力的大都市区之一。
 
-The numbers give you a sense of scale. This region covers about 56,000 square kilometers, roughly the size of west Virginia in the United States or twice the size of whales in the UK.
+The numbers give you a sense of scale. This region covers about 56,000 square kilometers, roughly the size of West Virginia in the United States or twice the size of Wales in the UK.
 
 这些数字能让你对它的规模有个概念。该区域占地面积约5.6万平方公里，大致相当于美国西弗吉尼亚州的面积，或是英国威尔士面积的两倍。
 
@@ -23,7 +23,7 @@ Inside that area live more than 70 million people. That’s more than the popula
 
 这片地区居住着7000多万人口。这个数字甚至比法国总人口还要多，并且全部集中在乘坐火车仅需几个小时就能横穿的沿海地带。中国将这一区域称为“粤港澳大湾”，这个名字并非随意取的。
 
-It’s modeled after other global hubs like Tokyo bay or San Francisco bay, both known for combining multiple cities into powerful economic engines. The goal is to make China’s Bay Area compete on the same stage, and possibly surpass them.
+It’s modeled after other global hubs like Tokyo Bay or San Francisco Bay, both known for combining multiple cities into powerful economic engines. The goal is to make China’s Bay Area compete on the same stage, and possibly surpass them.
 
 该规划借鉴了东京湾、旧金山湾等全球性枢纽城市的经验，这些地区都以将多个城市整合成强大经济引擎而闻名。其目标是让中国大湾区在同一舞台上竞争，甚至可能超越这些国际标杆。
 
@@ -211,7 +211,7 @@ By 2030, projections show the GBA could reach a GDP of 2.5 to 3 trillion dollars
 
 预计到2030年，粤港澳大湾区（GBA）的GDP可能达到2.5至3万亿美元，人口规模也将攀升至8000万。
 
-That would make it one of the largest urban economies on Earth, putting it in the same league as the Tokyo bay area, long considered the world’s most powerful metro region. 
+That would make it one of the largest urban economies on Earth, putting it in the same league as the Tokyo Bay Area, long considered the world’s most powerful metro region. 
 
 这将使其成为全球最大的都市经济体之一，与长期以来被视为世界最强大都市区的东京湾区齐名。
 
