@@ -56,7 +56,7 @@ It’s a way of keeping the region stable and competitive at the same time. And 
 
 这是保持该地区稳定并提升竞争力的一种方式。其次是效率考量。如果缺乏协调，每个城市都会建设各自的机场、港口、工业园区和科技园区。通过共同规划，他们可以共享资源，而非重复建设。
 
-A factory in Dong Guan might be supplied by Tech developed in Shenzhen, financed by Hong Kong, and shipped through Guangzhou, all without friction if the system works as intended. 
+A factory in Dongguan might be supplied by Tech developed in Shenzhen, financed by Hong Kong, and shipped through Guangzhou, all without friction if the system works as intended. 
 
 东莞的工厂可能采用深圳研发的技术，由香港提供资金，并通过广州出海运输，如果系统按预期运行，这一切都将畅通无阻。
 
@@ -120,7 +120,7 @@ Shenzhen around 13 million people now live here. 40 years ago, it was a fishing 
 
 深圳目前居住着大约1300万人。40年前，这里还只是个小渔村。如今，它已成为中国的硅谷，汇聚了HUAWEI、腾讯、大疆等科技巨头和数千家初创企业。这里是该地区大部分科技创新的发源地。
 
-Dong Guan, the industrial engine. Its factories supply the world with electronics, clothing and machinery. Many of the parts in your phone or laptop probably passed through Dongguan at some stage. 
+Dongguan, the industrial engine. Its factories supply the world with electronics, clothing and machinery. Many of the parts in your phone or laptop probably passed through Dongguan at some stage. 
 
 东莞，工业引擎。这里的工厂为全球供应电子产品、服装和机械设备。你手机或笔记本电脑中的许多零部件，很可能曾在东莞经过了某个生产流程。
 
@@ -164,7 +164,7 @@ That effectively shrinks the region, making daily cross-border commuting a reali
 
 这些举措有效缩小了区域距离，使日常跨境通勤成为现实选择。
 
-Beyond these headline projects, the government has mapped out more than 150 major infrastructure projects. These include new expressways crisscrossing the delta, expanded metro systems linking cities like Shenzhen and Dong Guan, and coordinated AirPort strategies between Guangzhou, Hong Kong and Shenzhen, so they complement rather than compete with each other.
+Beyond these headline projects, the government has mapped out more than 150 major infrastructure projects. These include new expressways crisscrossing the delta, expanded metro systems linking cities like Shenzhen and Dongguan, and coordinated AirPort strategies between Guangzhou, Hong Kong and Shenzhen, so they complement rather than compete with each other.
 
 除这些重点项目外，政府还规划了150多个重大基础设施项目，包括纵横交错的珠三角新高速公路，连接深圳和东莞等城市的地铁系统扩建工程，以及广州、香港与深圳之间协调发展的机场战略——这些规划旨在形成互补而非相互竞争。
 
