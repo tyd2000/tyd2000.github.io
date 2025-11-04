@@ -202,7 +202,7 @@ Education and research are part of the plan, too. Universities in Hong Kong, She
 
 These changes may sound technical, but they are what make the Greater Bay Area more than just a set of highways. They turn 11 jurisdictions into a region where talent, capital and ideas can move almost as freely as within a single city.
 
-这些改革听起来很具有技术性，但它们正是让粤港澳大湾区不仅仅是一系列高速公路的集合体，而是将11个行政区整合为有机整体，打造一个让人才、资本与创意如同在单一城市般自由流动的区域。
+这些改革听起来很具有技术性，但正是它们让粤港澳大湾区不仅仅是一系列高速公路的集合体，而是将11个行政区整合为有机整体，打造一个让人才、资本与创意如同在单一城市般自由流动的区域。
 
 Of course, all of this costs money. And the next question is whether the nearly one trillion dollars being poured into this project is actually worth it. And what kind of economic return China expects? 
 
