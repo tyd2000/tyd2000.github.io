@@ -227,6 +227,10 @@
 
 {{< show-text id=3 buttonText="查看答案" >}}
 
+{{< tabs type="pill" placement="top" >}}
+
+{{% tab title="FB参考答案" %}}
+
 <strong>参考答案</strong><br>
 
 <h3 style="text-align: center;">粤立科技潮头，自强驱动发展</h3>
@@ -265,6 +269,16 @@
 <p>&emsp;&emsp;在<u>高水平科技自立自强</u>的征途上，广东承载着国家与时代的期望。只有持续推动人才培养、制度创新、科研攻关，才能确保科技事业蓬勃发展，<u>为实现中国式现代化贡献力量</u>，<u>以强大的科技实力铸就国家的未来与希望</u>。</p>
 
  【结尾的优点：范文的结尾回扣了“高水平科技自立自强”这一主题，并发出了展望。】
+
+{{% /tab %}}
+
+{{% tab title="CO参考答案" %}}
+
+{{< figure src="/images/Co24gd1.png" >}}
+
+{{% /tab %}}
+
+{{< /tabs >}}
 
 {{< /show-text >}}
 
