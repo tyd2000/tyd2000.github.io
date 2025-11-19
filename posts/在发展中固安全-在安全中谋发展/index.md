@@ -24,5 +24,5 @@
 ---
 
 > 作者: [t0ur1st](https://github.com/tyd2000)  
-> URL: https://tyd2000.github.io/posts/%E5%9C%A8%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BA%E5%AE%89%E5%85%A8-%E5%9C%A8%E5%AE%89%E5%85%A8%E4%B8%AD%E8%B0%8B%E5%8F%91%E5%B1%95./  
+> URL: http://localhost:1313/posts/%E5%9C%A8%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BA%E5%AE%89%E5%85%A8-%E5%9C%A8%E5%AE%89%E5%85%A8%E4%B8%AD%E8%B0%8B%E5%8F%91%E5%B1%95./  
 
