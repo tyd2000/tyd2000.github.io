@@ -1,7 +1,9 @@
-# 持续领跑！广东如何壮大“最强大脑”
+# 广东如何壮大“最强大脑”？科技产业互促双强！广东晒出“十四五”科技创新成绩单
 
 
 > 广东发布微信公众号 [原文链接](https://mp.weixin.qq.com/s/pieom_Mzxd72e6ddpN6sXA)
+>
+> 粤港澳大湾区门户网 [原文链接](https://mp.weixin.qq.com/s/H0J8fzFamTCX__uZ74cwIA)
 
 　　12月3日，广东省人民政府新闻办公室举行第三场“‘十四五’广东成就”系列主题新闻发布会，介绍广东推动高水平科技自立自强有关情况。本场发布会由广东省委宣传部外宣一处一级调研员邓广志主持。
 
@@ -11,7 +13,7 @@
 
 　　广东省科学技术厅厅长王月琴介绍，<span style="background:#fff88f">“十四五”期间，广东加快构建<font color="#ff0000">全过程创新链</font>，<strong>推动<font color="#ff0000">科技创新</font>和<font color="#ff0000">产业创新</font>互促双强</strong>，各项指标任务顺利完成。保持<font color="#ff0000">“六个继续领先”</font>，<font color="#ff0000">2025年区域创新综合能力<strong>连续9年</strong>居全国首位</font>，“十四五”期间，全省研发经费投入、高新技术企业数量、发明专利有效量、PCT国际专利申请量、高技术制造业营收和高技术产品出口等主要科技创新指标继续保持全国首位。实现<font color="#ff0000">“六个跃升前列”</font>，<strong><font color="#ff0000">“深圳—香港—广州”创新集群</font>首次跃居全球第一</strong>；广东已建成和在建的<font color="#ff0000">国家重大科技基础设施数量</font>跃居全国前列；<font color="#ff0000">全省研发经费投入强度</font>排名全国各省、自治区第一；<font color="#ff0000">深圳研发强度跃居全国第一</font>；<font color="#ff0000">广东省30所高校254个学科进入全球排名前1%</font>，<font color="#ff0000">11所高校39个学科进入全球排名前1‰</font>，跻身全国前列；2024年我省机构<font color="#ff0000">获国家科学技术奖励、获批国家自然科学基金立项数和资助金额</font>均创历史新高。</span>
 
-　　面向世界科技前沿，基础研究和原始创新实现新突破。<span style="background:#fff88f"><font color="#ff0000">江门中微子实验站</font>建成并发布首个物理成果；<font color="#ff0000">大洋钻探船“梦想”号</font>正式入列；<font color="#ff0000">人工智能大模型提供“秒级”全球气象预测</font>等原创成果入选“中国科学十大进展”。</span>面向国家重大需求，关键核心技术攻关取得新进展。央地协同、省市联动，超常规、体系化组织实施<font color="#ff0000">“广东强芯”</font>、<font color="#ff0000">核心软件攻关</font>、<font color="#ff0000">“璀璨行动”</font>三大科技工程。面向经济主战场，<span style="background:#fff88f"><font color="#ff0000">产业科技互促双强</font>迸发新活力</span>。人工智能领域，<font color="#ff0000">昇腾910C芯片</font>突破国外封锁，原生<font color="#ff0000">鸿蒙操作系统</font>全面商用。智能机器人领域，<font color="#ff0000">人形机器人</font>突破热插拔自主换电、24小时连续作业、高动态运动控制等核心技术；<font color="#ff0000">国内首条“机器人生产机器人”重载机器人全自动化产线</font>投入使用。面向人民生命健康，科技支撑社会民生能力实现新提升。<font color="#ff0000">5.0T人体全身磁共振成像设备</font>成为全球首创，<font color="#ff0000">单孔单臂腔镜手术机器人</font>在国内率先获批上市。
+　　<strong><font color="#00aaff">面向世界科技前沿，基础研究和原始创新实现新突破。</font></strong><span style="background:#fff88f"><font color="#ff0000">江门中微子实验站</font>建成并发布首个物理成果；<font color="#ff0000">大洋钻探船“梦想”号</font>正式入列；<font color="#ff0000">人工智能大模型提供“秒级”全球气象预测</font>等原创成果入选“中国科学十大进展”。</span><strong><font color="#00aaff">面向国家重大需求，关键核心技术攻关取得新进展。</font></strong>央地协同、省市联动，超常规、体系化组织实施<font color="#ff0000">“广东强芯”</font>、<font color="#ff0000">核心软件攻关</font>、<font color="#ff0000">“璀璨行动”</font>三大科技工程。<strong><font color="#00aaff">面向经济主战场，<font color="#ff0000">产业科技互促双强</font>迸发新活力</font></strong>。人工智能领域，<font color="#ff0000">昇腾910C芯片</font>突破国外封锁，原生<font color="#ff0000">鸿蒙操作系统</font>全面商用。智能机器人领域，<font color="#ff0000">人形机器人</font>突破热插拔自主换电、24小时连续作业、高动态运动控制等核心技术；<font color="#ff0000">国内首条“机器人生产机器人”重载机器人全自动化产线</font>投入使用。<strong><font color="#00aaff">面向人民生命健康，科技支撑社会民生能力实现新提升。</font></strong><font color="#ff0000">5.0T人体全身磁共振成像设备</font>成为全球首创，<font color="#ff0000">单孔单臂腔镜手术机器人</font>在国内率先获批上市。
 
 　　携手港澳，<font color="#ff0000">大湾区国际科技创新中心</font>建设开创新局面。国家和省市区科技计划项目持续向港澳机构开放，全省科研经费跨境拨付至港澳累计超过6亿元。深化科技体制改革，世界一流创新生态步入新阶段。出台《广东省科技创新条例》，统筹推进科技体制改革，在全国率先启动实施地方基础研究十年“卓粤”计划。
 
