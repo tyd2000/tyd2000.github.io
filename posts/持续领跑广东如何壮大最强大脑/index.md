@@ -3,7 +3,9 @@
 
 > 广东发布微信公众号 [原文链接](https://mp.weixin.qq.com/s/pieom_Mzxd72e6ddpN6sXA)
 >
-> 粤港澳大湾区门户网 [原文链接](https://mp.weixin.qq.com/s/H0J8fzFamTCX__uZ74cwIA)
+> 粤港澳大湾区门户网 [原文链接](https://mp.weixin.qq.com/s/H0J8fzFamTCX__uZ74cwIA) 
+>
+> [一图读懂｜“十四五”广东科技创新成效](https://mp.weixin.qq.com/s/dJIgbdDm3-7u8yvARq05vw)
 
 　　12月3日，广东省人民政府新闻办公室举行第三场“‘十四五’广东成就”系列主题新闻发布会，介绍广东推动高水平科技自立自强有关情况。本场发布会由广东省委宣传部外宣一处一级调研员邓广志主持。
 
