@@ -25,7 +25,7 @@
 
 　　<span style="background:#fff88f"><font color="#ff0000">绿美广东</font>，就是这张新答卷的“题眼”。</span>
 
-　　去年，广东省委十三届二次全会作出深入推进绿美广东生态建设的重要决定。今年，<span style="background:#fff88f"><font color="#ff0000">绿美广东生态建设</font>进一步被纳入<font color="#ff0000">省委“1310”具体部署</font></span>，省委书记带头推进。全省各地以<font color="#ff0000">绿美广东</font>为牵引，<font color="#ff0000">生态文明建设</font>加快推进。
+　　2022年，广东省委十三届二次全会作出深入推进绿美广东生态建设的重要决定。2023年，<span style="background:#fff88f"><font color="#ff0000">绿美广东生态建设</font>进一步被纳入<font color="#ff0000">省委“1310”具体部署</font></span>，省委书记带头推进。全省各地以<font color="#ff0000">绿美广东</font>为牵引，<font color="#ff0000">生态文明建设</font>加快推进。
 
 　　<span style="background:#fff88f">“<strong><font color="#ff0000">绿美广东生态建设</font>是<font color="#ff0000">广东生态文明建设</font>的战略牵引，也是<font color="#ff0000">关系广东长远发展和民生福祉的重要工程</font>。</strong>”</span>在全省生态环境保护大会暨<font color="#ff0000">绿美广东生态建设</font>工作会议上，黄坤明进一步道出<font color="#ff0000">绿美广东生态文明建设</font>在全省发展中的重要性。
 
