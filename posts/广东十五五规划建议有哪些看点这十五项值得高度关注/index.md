@@ -227,7 +227,7 @@
 
 ### 一图速览广东“十五五”规划建议
 
-![](../images/广东十五五.jpg)
+![](http://img.tanyaodan.com/%E5%B9%BF%E4%B8%9C%E5%8D%81%E4%BA%94%E4%BA%94.jpg)
 
 ---
 
