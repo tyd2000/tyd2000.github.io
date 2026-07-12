@@ -9,7 +9,7 @@ for(const item of []) {
 }
 mermaid.registerLayoutLoaders(loaders)
 mermaid.startOnLoad = false;
-const mermaidConfig = {"themes":["default","dark"]}
+const mermaidConfig = {"cdn":"","fontfamily":"","layout":"dagre","layoutloaders":[],"look":"handDrawn","securitylevel":"loose","themes":["default","dark"],"zenuml":""}
 let processing = false
 let delayTask = null
 
@@ -41,7 +41,13 @@ async function loadMermaid({ theme, darkMode, selector }) {
   const isDarkMode = darkMode ?? (document.documentElement.dataset.theme === 'dark')
   const currentTheme = theme ?? getTheme()
   const querySelector = selector ?? (isDarkMode ? '.mermaid-dark' : '.mermaid')
-  const nodes = document.querySelectorAll(querySelector)
+  const nodes = Array.from(document.querySelectorAll(querySelector))
+    .filter((node) => {
+      const p = node.closest('.tab-panel')
+      if (!p) return true
+      const style = getComputedStyle(p)
+      return style.height !== 'auto' || style.width !== 'auto'
+    })
 
   if (!nodes.length) return
 
@@ -101,9 +107,3 @@ window.FixItMermaid = {
   init: initMermaid,
 }
 window.mermaid = mermaid
-
-if (document.readyState !== 'loading') {
-  initMermaid()
-} else {
-  document.addEventListener('DOMContentLoaded', initMermaid, false)
-}
